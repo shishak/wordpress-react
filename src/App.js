@@ -12,7 +12,7 @@ export default class App extends Component {
     sections: [],
     current: null,
     dataRoute:
-      "https://cors.io/?http://35.188.114.84/wp-json/wp/v2"
+      "https://texty.xyz/wp-json/wp/v2"
   };
 
   get scaledSections() {

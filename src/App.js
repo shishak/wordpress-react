@@ -12,7 +12,7 @@ export default class App extends Component {
     sections: [],
     current: null,
     dataRoute:
-      "https://texty.xyz/wp-json/wp/v2"
+      "nuepress/wp-json/wp/v2"
   };
 
   get scaledSections() {
